@@ -1,5 +1,5 @@
 export const config = {
-  domainSource: "https://gritt.io", // Your WeWeb app preview link
+  domainSource: "https://bd1da026-27ab-4278-a071-21e25fbd5253.weweb-preview.io/", // Your WeWeb app preview link
   patterns: [
       {
           pattern: "/investor/[^/]+",
